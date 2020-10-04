@@ -1,3 +1,6 @@
+This is a repository to create my first application in React as a training.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
